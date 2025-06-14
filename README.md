@@ -7,6 +7,13 @@
 * A CI (Continuouse Integration) script to demonstrate CI technique using GitHub Actions
 * ...
 
+## Screen-shots
+### TDD, DDT test script with JUnit
+![TDD, DTT with JUnit](https://github.com/Lunarcd/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+
+### Maven Builder to build .jar file
+![Maven Builder](https://github.com/Lunarcd/mathutil/blob/main/screenshots/Maven%20build.png)
+
 ### Connect me via: nhatanhth0212@gmail.com
 
 #### &#169; 2025 Lunarcd
