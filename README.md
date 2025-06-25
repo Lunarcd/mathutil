@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2025 by Lunarcd](https://github.com/Lunarcd/mathutil/actions/workflows/maven.yml/badge.svg)](https://github.com/Lunarcd/mathutil/actions/workflows/maven.yml)
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
