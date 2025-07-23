@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2025 by Lunarcd](https://github.com/Lunarcd/mathutil/actions/workflows/maven.yml/badge.svg)](https://github.com/Lunarcd/mathutil/actions/workflows/maven.yml)
+[![Math Utility Project (CI included) | © 2025 by lunarcd](https://github.com/lunarcd/mathutil/actions/workflows/maven.yml/badge.svg)](https://github.com/lunarcd/mathutil/actions/workflows/maven.yml)
 
 # Welcome to Math Utility Repository
 
@@ -11,11 +11,11 @@
 
 ## Screen-shots
 ### TDD, DDT test script with JUnit
-![TDD, DTT with JUnit](https://github.com/Lunarcd/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+![TDD, DTT with JUnit](https://github.com/lunarcd/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
 
 ### Maven Builder to build .jar file
-![Maven Builder](https://github.com/Lunarcd/mathutil/blob/main/screenshots/Maven%20build.png)
+![Maven Builder](https://github.com/lunarcd/mathutil/blob/main/screenshots/Maven%20build.png)
 
 ### Connect me via: nhatanhth0212@gmail.com
 
-#### &#169; 2025 Lunarcd
+#### &#169; 2025 lunarcd
